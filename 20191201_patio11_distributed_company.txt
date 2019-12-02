@@ -1,0 +1,18 @@
+The bet originates with this tweet:
+
+https://twitter.com/harryh/status/1201283532968120333
+
+Patrick's core thesis is that distributed companies will become significantly more common
+over the next 5 years. Harry does not believe this will be the case.
+
+As discussed, the bet will resolve on January 1, 2025. On this date we will look at the top 5
+YC companies by valuation for all classes starting with the Winter 2020 class. For each of these
+comapnies we will decide if a company is distrubuted or not based on the following criteria:
+
+A company counts as distributed if there is no central company HQ campus with over 500 people or
+50% of the company workforce.
+
+Patrick wins the bet if fewer than 3 of the 5 companies are NOT distributed.
+Harry wins the bet if 3 or more of the companies are NOT distributed.
+
+The loser of the bet will donate $500 to a charity of the winner's choice.
