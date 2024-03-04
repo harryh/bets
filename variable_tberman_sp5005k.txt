@@ -9,3 +9,5 @@ If, after the caller wins, the S&P500 then closes below 5k, the winning caller f
 and loses $100 so owes the other party $300.
 
 After any loss by a caller, the game reset and is open to be called by either party again.
+
+Todd called it on March 4th 2024. 90 days from that day is June 2, 2024, so close as of May 31st 2024 will be used as 90 days.
