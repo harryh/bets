@@ -1,6 +1,8 @@
 Peter predicts that there will be more murders in NYC in 2026 than there were in 2025.
-For reference NYC had 305 murders in 2025.
+Harry predicts that there will be less.
 
-Harry takes the other side.
+For reference NYC had 305 murders in 2025. If 2026 has exactly 305 murders, the bet resolves as a tie.
 
-The bet is a $100 bar tab at the bar of the loser's choice.
+Winner gets $100 cash OR <=$100 tab at place at loser's choice. Winner picks which.
+
+Bet is also documented in this twitter thread: https://x.com/PeterMoskos/status/2014961524444434916
